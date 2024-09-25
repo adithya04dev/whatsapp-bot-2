@@ -1,0 +1,12 @@
+flask
+python-dotenv
+openai
+aiohttp
+requests
+gunicorn
+Pillow
+langchain 
+langchain_google_genai 
+google 
+langchain-openai
+langchain-groq
